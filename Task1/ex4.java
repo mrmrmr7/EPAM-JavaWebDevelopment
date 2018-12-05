@@ -1,8 +1,8 @@
 import java.util.Scanner;
 /**
- * Fourth
+ * ex4
  */
-public class Fourth {
+public class ex4 {
 
     public static void main(String[] args) {
         final int N = UserInput.input("Input array lenght: ");

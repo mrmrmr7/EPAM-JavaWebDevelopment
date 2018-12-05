@@ -2,9 +2,9 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- * Third
+ * ex3
  */
-public class Third {
+public class ex3 {
 
     public static void main(String[] args) {
         final double FIRST_KATET = UserInput.input("Enter first katet lenght: ");
