@@ -6,9 +6,12 @@ import java.util.InputMismatchException;
  */
 public class superEx {
     public static void main(String[] args) {
-        Group me = new Group(1,5);
-        me.setGroupInfo();
-        System.out.println(me.gradePointAverage());
+        Group st24 = new Group(1,5);
+        st24.setGroupInfo(); 
+        System.out.println(st24.student[2].gradePointAverage()); 
+        System.out.println(st24.gradePointAverage());
+        System.out.println(st24.badStudentCount());
+        System.out.println(st24.excellentStudentCount());
     }
 }
 
@@ -62,7 +65,7 @@ class Student {
  
 class Group {
     public int countStudent;
-    private Student[] student; 
+    public Student[] student; 
 
     Group(int count) {
         countStudent = count;
@@ -80,8 +83,6 @@ class Group {
         }
     }
 
-
-    
     Group() {
         this(0);
     }
@@ -99,6 +100,29 @@ class Group {
         for (int i = 0; i < countStudent; i++) 
             student[i].setStudentInfo();
     }
+
+    public int excellentStudentCount() {
+        int num = 0;
+
+        for (int i = 0; i < countStudent; i++) 
+            if (student[i].gradePointAverage() >= 8) 
+                num++;
+
+        return num;
+    }
+
+    public int badStudentCount() {
+        int num = 0;
+
+        for (int i = 0; i < countStudent; i++) 
+            if (student[i].gradePointAverage() < 4) 
+                num++;
+
+        return num;
+    }
+
+
+    
 }
 
 class UserInput {
