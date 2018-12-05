@@ -7,8 +7,8 @@ import java.util.Scanner;
 public class ex3 {
 
     public static void main(String[] args) {
-        final double FIRST_KATET = UserInput.input("Enter first katet lenght: ");
-        final double SECOND_KATET = UserInput.input("Enter second katet lenght: ");
+        final double FIRST_KATET = UserInput.inputDouble("Enter first katet lenght: ");
+        final double SECOND_KATET = UserInput.inputDouble("Enter second katet lenght: ");
         final double HYPOTINUZA = Math.sqrt(Math.pow(FIRST_KATET, 2) + Math.pow(SECOND_KATET, 2));
         final double FIELD = FIRST_KATET * SECOND_KATET / 2.;
         System.out.println("Hypotinuza is equal: " + HYPOTINUZA);
@@ -20,17 +20,15 @@ public class ex3 {
  * UserInput 
  */
 class UserInput {
-    public static double input(String msg) {
+    public static double inputDouble(String msg) {
         System.out.print(msg);
         Scanner in = new Scanner(System.in);
+        double value = 0.0;
         try {
-            double value = in.nextDouble();
-            return value;
+            value = in.nextDouble();
         } catch (InputMismatchException e) {
             System.out.println("Wrong input type");
-            return null;
-        } finally {
-            in.close();     
-        }
+        } 
+        return value;
     }
 }

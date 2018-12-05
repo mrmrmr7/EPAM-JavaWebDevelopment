@@ -1,3 +1,4 @@
+import java.util.InputMismatchException;
 import java.util.Scanner;
 /**
  * ex6
@@ -21,7 +22,7 @@ public class ex6 {
         int next = 0;
         
         for (int i = 1; i < N; i++) {
-            next = UserInput.input("Enter " + (i+1) + "-th number");
+            next = UserInput.input("Enter " + (i+1) + "-th number: ");
             if (next < last) { 
                 System.out.println("Not incremental");
                 return;
@@ -34,15 +35,13 @@ public class ex6 {
 class UserInput {
     public static int input(String msg) {
         System.out.print(msg);
+        int value = 0;
         Scanner in = new Scanner(System.in);
         try {
-            double value = in.nextDouble();
-            return value;
+            value = in.nextInt();
         } catch (InputMismatchException e) {
             System.out.println("Wrong input type");
-            return null;
-        } finally {
-            in.close();     
-        }
+        } 
+        return value;
     }
 }

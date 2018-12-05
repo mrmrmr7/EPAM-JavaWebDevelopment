@@ -1,3 +1,4 @@
+import java.util.InputMismatchException;
 import java.util.Scanner;
 /**
  * ex4
@@ -17,22 +18,20 @@ public class ex4 {
                 countMultiples++;
         }
 
-        System.out.println("Count of multiplies numbers: " + countMultiplies);
+        System.out.println("Count of multiplies numbers: " + countMultiples);
     }
 }
 
 class UserInput {
     public static int input(String msg) {
         System.out.print(msg);
+        int value = 0;
         Scanner in = new Scanner(System.in);
         try {
-            double value = in.nextDouble();
-            return value;
-        } catch (InputMismatchException e) {
+            value = in.nextInt();
+        } catch (Exception e) {
             System.out.println("Wrong input type");
-            return null;
-        } finally {
-            in.close();     
-        }
+        } 
+        return value;
     }
 }
