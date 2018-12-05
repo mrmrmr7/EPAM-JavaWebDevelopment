@@ -8,7 +8,7 @@ public class superEx {
     public static void main(String[] args) {
         Group st24 = new Group(1,5);
         st24.setGroupInfo(); 
-        System.out.println(st24.student[2].gradePointAverage()); 
+        System.out.println(st24.student[0].gradePointAverage()); 
         System.out.println(st24.gradePointAverage());
         System.out.println(st24.badStudentCount());
         System.out.println(st24.excellentStudentCount());
@@ -60,11 +60,16 @@ class Student {
         return (double)(sum / countExams);
     }
 
+    public String toString() {
+        return ("\nName: " + this.name +
+                "\nSurname: " + this.surname +
+                "\nAge: " + this.age +
+                "\nAverage ball: " + this.gradePointAverage());
+    }
 }
 
- 
 class Group {
-    public int countStudent;
+    private int countStudent;
     public Student[] student; 
 
     Group(int count) {
