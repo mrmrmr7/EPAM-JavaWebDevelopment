@@ -1,0 +1,224 @@
+2018-12-11 00:51:25 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:51:25 INFO  SphereActionTest:78 - Test: isRightVolume done;
+
+2018-12-11 00:51:25 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:51:25 INFO  SphereActionTest:78 - Test: isTouchXY done;
+
+2018-12-11 00:51:25 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:51:25 INFO  SphereActionTest:78 - Test: isTouchXZ done;
+
+2018-12-11 00:51:25 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:51:25 INFO  SphereActionTest:78 - Test: isTouchZY done;
+
+2018-12-11 00:51:25 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:51:25 INFO  SphereActionTest:78 - Test: isRightArea done;
+
+2018-12-11 00:51:25 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:51:25 INFO  SphereActionTest:78 - Test: isRightDissectionByXY done;
+
+2018-12-11 00:51:25 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:51:25 INFO  SphereActionTest:78 - Test: isRightDissectionByXZ done;
+
+2018-12-11 00:51:25 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:51:25 INFO  SphereActionTest:78 - Test: isRightDissectionByZY done;
+
+2018-12-11 00:51:25 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:51:25 INFO  SphereTest:71 - Test: isZEqualsTo4 done;
+
+2018-12-11 00:51:25 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:51:25 INFO  SphereTest:71 - Test: isYEqualsTo3 done;
+
+2018-12-11 00:51:25 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:51:25 INFO  SphereTest:71 - Test: isXEqualsTo2 done;
+
+2018-12-11 00:51:25 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:51:25 INFO  SphereTest:71 - Test: isREqualsTo5 done;
+
+2018-12-11 00:51:25 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:51:25 INFO  SphereTest:71 - Test: isSetRTo3 done;
+
+2018-12-11 00:51:25 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:51:25 INFO  SphereTest:71 - Test: isSetXTo3 done;
+
+2018-12-11 00:51:25 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:51:25 INFO  SphereTest:71 - Test: isSetYTo3 done;
+
+2018-12-11 00:51:25 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:51:25 INFO  SphereTest:71 - Test: isSetZTo3 done;
+
+2018-12-11 00:51:25 INFO  PointTest:50 - Test: isYEqualsTo5 done
+
+2018-12-11 00:51:25 INFO  PointTest:50 - Test: isXEqualsTo5 done
+
+2018-12-11 00:51:25 INFO  PointTest:50 - Test: isSetXTo3 done
+
+2018-12-11 00:51:25 INFO  PointTest:50 - Test: isSetYTo3 done
+
+2018-12-11 00:52:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:52:41 INFO  SphereActionTest:78 - Test: isRightVolume done;
+
+2018-12-11 00:52:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:52:41 INFO  SphereActionTest:78 - Test: isTouchXY done;
+
+2018-12-11 00:52:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:52:41 INFO  SphereActionTest:78 - Test: isTouchXZ done;
+
+2018-12-11 00:52:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:52:41 INFO  SphereActionTest:78 - Test: isTouchZY done;
+
+2018-12-11 00:52:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:52:41 INFO  SphereActionTest:78 - Test: isRightArea done;
+
+2018-12-11 00:52:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:52:41 INFO  SphereActionTest:78 - Test: isRightDissectionByXY done;
+
+2018-12-11 00:52:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:52:41 INFO  SphereActionTest:78 - Test: isRightDissectionByXZ done;
+
+2018-12-11 00:52:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:52:41 INFO  SphereActionTest:78 - Test: isRightDissectionByZY done;
+
+2018-12-11 00:52:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:52:41 INFO  SphereTest:71 - Test: isZEqualsTo4 done;
+
+2018-12-11 00:52:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:52:41 INFO  SphereTest:71 - Test: isYEqualsTo3 done;
+
+2018-12-11 00:52:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:52:41 INFO  SphereTest:71 - Test: isXEqualsTo2 done;
+
+2018-12-11 00:52:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:52:41 INFO  SphereTest:71 - Test: isREqualsTo5 done;
+
+2018-12-11 00:52:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:52:41 INFO  SphereTest:71 - Test: isSetRTo3 done;
+
+2018-12-11 00:52:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:52:41 INFO  SphereTest:71 - Test: isSetXTo3 done;
+
+2018-12-11 00:52:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:52:41 INFO  SphereTest:71 - Test: isSetYTo3 done;
+
+2018-12-11 00:52:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 00:52:41 INFO  SphereTest:71 - Test: isSetZTo3 done;
+
+2018-12-11 00:52:41 INFO  PointTest:50 - Test: isYEqualsTo5 done
+
+2018-12-11 00:52:41 INFO  PointTest:50 - Test: isXEqualsTo5 done
+
+2018-12-11 00:52:41 INFO  PointTest:50 - Test: isSetXTo3 done
+
+2018-12-11 00:52:41 INFO  PointTest:50 - Test: isSetYTo3 done
+
+2018-12-11 18:12:10 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:12:10 INFO  SphereActionTest:78 - Test: isRightVolume done;
+
+2018-12-11 18:12:10 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:12:10 INFO  SphereActionTest:78 - Test: isTouchXY done;
+
+2018-12-11 18:12:10 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:12:10 INFO  SphereActionTest:78 - Test: isTouchXZ done;
+
+2018-12-11 18:12:10 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:12:10 INFO  SphereActionTest:78 - Test: isTouchZY done;
+
+2018-12-11 18:12:10 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:12:10 INFO  SphereActionTest:78 - Test: isRightArea done;
+
+2018-12-11 18:12:10 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:12:10 INFO  SphereActionTest:78 - Test: isRightDissectionByXY done;
+
+2018-12-11 18:12:10 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:12:10 INFO  SphereActionTest:78 - Test: isRightDissectionByXZ done;
+
+2018-12-11 18:12:10 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:12:10 INFO  SphereActionTest:78 - Test: isRightDissectionByZY done;
+
+2018-12-11 18:12:10 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:12:10 INFO  SphereTest:71 - Test: isZEqualsTo4 done;
+
+2018-12-11 18:12:10 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:12:10 INFO  SphereTest:71 - Test: isYEqualsTo3 done;
+
+2018-12-11 18:12:10 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:12:10 INFO  SphereTest:71 - Test: isXEqualsTo2 done;
+
+2018-12-11 18:12:10 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:12:10 INFO  SphereTest:71 - Test: isREqualsTo5 done;
+
+2018-12-11 18:12:10 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:12:10 INFO  SphereTest:71 - Test: isSetRTo3 done;
+
+2018-12-11 18:12:10 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:12:10 INFO  SphereTest:71 - Test: isSetXTo3 done;
+
+2018-12-11 18:12:10 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:12:10 INFO  SphereTest:71 - Test: isSetYTo3 done;
+
+2018-12-11 18:12:10 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:12:10 INFO  SphereTest:71 - Test: isSetZTo3 done;
+
+2018-12-11 18:12:10 INFO  PointTest:50 - Test: isYEqualsTo5 done
+
+2018-12-11 18:12:10 INFO  PointTest:50 - Test: isXEqualsTo5 done
+
+2018-12-11 18:12:10 INFO  PointTest:50 - Test: isSetXTo3 done
+
+2018-12-11 18:12:10 INFO  PointTest:50 - Test: isSetYTo3 done
+
+2018-12-11 18:22:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:22:41 INFO  SphereActionTest:78 - Test: isRightVolume done;
+
+2018-12-11 18:22:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:22:41 INFO  SphereActionTest:78 - Test: isTouchXY done;
+
+2018-12-11 18:22:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:22:41 INFO  SphereActionTest:78 - Test: isTouchXZ done;
+
+2018-12-11 18:22:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:22:41 INFO  SphereActionTest:78 - Test: isTouchZY done;
+
+2018-12-11 18:22:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:22:41 INFO  SphereActionTest:78 - Test: isRightArea done;
+
+2018-12-11 18:22:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:22:41 INFO  SphereActionTest:78 - Test: isRightDissectionByXY done;
+
+2018-12-11 18:22:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:22:41 INFO  SphereActionTest:78 - Test: isRightDissectionByXZ done;
+
+2018-12-11 18:22:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:22:41 INFO  SphereActionTest:78 - Test: isRightDissectionByZY done;
+
+2018-12-11 18:22:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:22:41 INFO  SphereTest:71 - Test: isZEqualsTo4 done;
+
+2018-12-11 18:22:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:22:41 INFO  SphereTest:71 - Test: isYEqualsTo3 done;
+
+2018-12-11 18:22:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:22:41 INFO  SphereTest:71 - Test: isXEqualsTo2 done;
+
+2018-12-11 18:22:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:22:41 INFO  SphereTest:71 - Test: isREqualsTo5 done;
+
+2018-12-11 18:22:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:22:41 INFO  SphereTest:71 - Test: isSetRTo3 done;
+
+2018-12-11 18:22:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:22:41 INFO  SphereTest:71 - Test: isSetXTo3 done;
+
+2018-12-11 18:22:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:22:41 INFO  SphereTest:71 - Test: isSetYTo3 done;
+
+2018-12-11 18:22:41 INFO  Sphere:33 - Was created object Sphere
+2018-12-11 18:22:41 INFO  SphereTest:71 - Test: isSetZTo3 done;
+
+2018-12-11 18:22:41 INFO  PointTest:50 - Test: isYEqualsTo5 done
+
+2018-12-11 18:22:41 INFO  PointTest:50 - Test: isXEqualsTo5 done
+
+2018-12-11 18:22:41 INFO  PointTest:50 - Test: isSetXTo3 done
+
+2018-12-11 18:22:41 INFO  PointTest:50 - Test: isSetYTo3 done
+
